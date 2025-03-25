@@ -18,6 +18,8 @@ struct ContentView: View {
             List {
                 ForEach(wishes) { wish in
                     Text(wish.title)
+                        .font(.title2.weight(.medium))
+                        .padding(.vertical,5)
                 }
             }// List
             .navigationTitle("Wishlist")
