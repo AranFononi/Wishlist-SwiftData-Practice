@@ -50,7 +50,9 @@ struct ContentView: View {
                 TextField("Enter a wish", text: $title)
                 
                 Button {
-                    modelContext.insert(Wish(title: title))
+                    if title != ""{
+                        modelContext.insert(Wish(title: title))
+                    }
                     title = ""
                 } label: {
                     Text("Save")
