@@ -38,4 +38,3 @@ This app allows users to **create, save, and manage a wishlist** with a smooth a
 ## 📬 Contact  
 For any feedback or collaboration, feel free to reach out:  
 - **Email**: [aranfononi@gmail.com](mailto:aranfononi@gmail.com)  
-- **LinkedIn**: [Aran Fononi](https://www.linkedin.com/in/aran-fononi-18182b265)  
